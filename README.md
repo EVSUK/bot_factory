@@ -7,6 +7,7 @@ Purpose of the app is make business process more simple and friendly for custome
 ======================================================
 
 First step is creating template of clients bot (C-bot)
+
 This is some principles:
 - Bot must be easy scalable
 - Bot must be easy controllable
@@ -17,6 +18,7 @@ This is some principles:
 ======================================================
 
 Second step is creating business bot (B-bot)
+
 Some principles:
 - Bot must be easy scalable
 - Bot must be easy controllable
